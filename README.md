@@ -25,3 +25,12 @@ Python, Pandas, SQLite, SQL (CTE, window functions), Plotly, scikit-learn, XGBoo
 - `app/app.py` Streamlit dashboard
 
 *Educational project. Predictions are estimates, not guaranteed outcomes.*
+
+**IPL Intelligence Lab – Interactive Cricket Analytics Dashboard**
+
+🌐 **Live Website:** [Open IPL Intelligence Lab](https://ipl-intelligence-lab-fzbw9ra6yjwaexwydtdbz4.streamlit.app/)
+
+Explore IPL statistics, team analytics, player performance, match predictions and ML-powered live win probability.
+
+**Tech Stack:** Python | Pandas | SQL | XGBoost | Scikit-learn | Streamlit | Plotly
+:::
